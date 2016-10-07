@@ -1,0 +1,55 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #ff99ff;
+  
+ 
+}
+
+.navbar{
+	background-color:#ccffff;
+	
+}
+
+.navbar-brand h3{
+	margin-top: 5px;
+}
+	
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+
+#nav-list a {
+ 
+  color: #951C49;
+  text-align: center;
+  height: 50px;
+}
+
+#nav-list{
+	background-color: #ffccff;
+	margin: 0px -15px;
+  }
+
+  #main-content{
+  	margin: 15px;
+  	
+  	margin: auto;
+
+  }
+
+  .menu-item{
+  	margin-bottom: 20px;
+  	background-color: #0066ff;
+  	height: 1000px;
+  }
+
+  @media (max-width: 768px)
+  {
+  	#main-content{
+  		margin: 10px;
+  	}
+  }
